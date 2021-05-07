@@ -72,7 +72,7 @@ To calculate the release angle we take the last 2 frames when the ball was below
 
 
 
-The object detection model is trained with YOLOv4[1] CNN model architecture, which includes pretrained weight on COCO dataset. 
+The object detection model is trained with YOLOv4[1] CNN model architecture, which includes pretrained weights on COCO dataset. 
 The detector was trained with custom configuration parameters:
 
 * batch = 64
