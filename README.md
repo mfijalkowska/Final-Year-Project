@@ -6,7 +6,7 @@ Developed by Magdalena Fijalkowska in 2020/2021 as part of my Bachelor Hons proj
 ## Overview of the project
 The purpose of this project was to create a system that uses computer vision and open-source technologies to analyse the data captured from a single static camera in real-time during an individual shooter’s training.
 
-It builds on the concept of object detection, object tracking and pose estimation in order to recognize when the shot is made and investigate the pose and shot characteristics to provide statistics such as:
+It builds on the concept of object detection, object tracking and pose estimation in order to recognize when a shot is made and investigate the pose and shot characteristics to provide statistics such as:
 * total number of shots taken
 * missed shots
 * made shots
