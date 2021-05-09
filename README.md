@@ -53,6 +53,8 @@ The program will start analysing the video.
 Please note that the software is designed to run on a GPU with a proper CUDA setup, however, it can be run using only CPU.
 
 ## Features
+### Generic Pipeline
+![Generic Pipeline](media/pipeline.png)
 ### Release Angle Calculation
 | ![Ball Angle](media/ballangle.png) | 
 |:--:| 
